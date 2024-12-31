@@ -42,13 +42,7 @@ git clone https://github.com/yaserselvam/demand-forecasting-optimization.git
 cd demand-forecasting-optimization
 ```
 
-2.	Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3.	Run the Jupyter Notebooks:
+2.	Run the Jupyter Notebooks:
 
 ```bash
 jupyter notebook
