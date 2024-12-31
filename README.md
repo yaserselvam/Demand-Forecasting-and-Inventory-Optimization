@@ -38,8 +38,8 @@ This repository contains a Python-based project for **Demand Forecasting** and *
 1.	Clone the repository:
    
 ```bash
-git clone https://github.com/yaserselvam/demand-forecasting-optimization.git
-cd demand-forecasting-optimization
+git clone https://github.com/yaserselvam/Demand-Forecasting-and-Inventory-Optimization.git
+cd Demand-Forecasting-and-Inventory-Optimization
 ```
 
 2.	Run the Jupyter Notebooks:
@@ -51,9 +51,9 @@ jupyter notebook
 ## 📚 Usage
 
 1.	Place your dataset in the data/ directory.
-2.	Run the EDA notebook to explore and preprocess the data.
-3.	Train forecasting models in the Forecasting notebook.
-4.	Perform inventory optimization in the Optimization notebook.
+2.	Run the **EDA notebook** to explore and preprocess the data.
+3.	Train forecasting models in the **Forecasting notebook**.
+4.	Perform inventory optimization in the **Optimization notebook**.
 5.	Visualize and interpret the results.
 
 ## 📈 Future Enhancements
